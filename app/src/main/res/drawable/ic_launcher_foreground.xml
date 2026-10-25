@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Biểu tượng: ba nút tín hiệu nối vào một app (attribution graph thu nhỏ). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M54,58 L34,38 M54,58 L74,38 M54,58 L54,80" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:fillColor="#FFC857"
+        android:pathData="M34,38m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path
+        android:fillColor="#7DD3FC"
+        android:pathData="M74,38m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path
+        android:fillColor="#F87171"
+        android:pathData="M54,80m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+</vector>
